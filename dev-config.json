@@ -1,0 +1,23 @@
+{
+    "logger-position-configuration": {
+      "positions": [
+        {
+          "sensor-code": "INTEGRATED",
+          "sensor-position": "UNSPECIFIED"
+        },
+        {
+          "sensor-code": "CONNECTOR_DOOR",
+          "sensor-position": "DOOR"
+        },
+        {
+          "sensor-code": "BUTTON",
+          "sensor-position": "UNSPECIFIED"
+        },
+        {
+          "sensor-code": "HUMIDITY",
+          "sensor-position": "UNSPECIFIED"
+        }
+      ]
+    }
+  }
+  
