@@ -14,7 +14,7 @@
           "sensor-position": "UNSPECIFIED"
         },
         {
-          "sensor-code": "BUTTON",
+          "sensor-code": "TESTBUTTON",
           "sensor-position": "UNSPECIFIED"
         }
       ]
