@@ -14,7 +14,7 @@
           "sensor-position": "UNSPECIFIED"
         },
         {
-          "sensor-code": "HUMIDITY",
+          "sensor-code": "BUTTON",
           "sensor-position": "UNSPECIFIED"
         }
       ]
